@@ -37,8 +37,3 @@ I am a proficient and driven IT professional with more than three years of hands
 </div>
 
 <br/>
-
-<h2 align="center">📊 Github Stats 📊</h2>
-
-![Josephadebiyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Josephadebiyi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephadebiyi&show_icons=true&theme=radical)
